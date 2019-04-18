@@ -1,7 +1,8 @@
 # Home_Lab_IP_Schema
 
 Cave001 [192.168.0.110-149]
-Tattoo1 [192.168.0.150-200]
+varok [192.168.0.150-200]
+samuro  
 
 Domain Name
 - horde.local
